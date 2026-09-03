@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "scripts": {
+    "tsc": "tsc --noEmit index.ts && node index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
